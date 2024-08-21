@@ -1,0 +1,7 @@
+0 cat
+1 bird
+2 dog
+3 balık
+4 snake
+5 lizard
+6 turtle
